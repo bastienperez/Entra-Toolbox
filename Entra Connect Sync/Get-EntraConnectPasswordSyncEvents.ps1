@@ -1,4 +1,4 @@
-function Get-EntraConnectPasswordSyncEvents.ps1 {
+function Get-EntraConnectPasswordSyncEvents {
     [CmdletBinding()]
     param (
         [Parameter(Mandatory = $false)]
